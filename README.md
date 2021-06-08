@@ -6,4 +6,4 @@ All the updates of the project. All the datasets to be stored here as well as th
 Important Links : https://www.kaggle.com/oualidkhalis/covid19-forecasting-using-arima-ar-model-rf?select=test.csv
 
 2. Time series Mortality Rate week2 (June 6th): This work is still in process, this is Sunday. This is for the plotting of Mortality Rate. I am confused here between daily_deaths/population or daily_deaths/confimed_cases. The population thing dont make sense to me as there is much difference between the other countries and one of the countries that I have which is India. India is the odd one here. Need to find a way to make all the dataset even. The dataset is started from May 1st to June. The last 42 rows are all NaN for the deaths, because the datasets is not updated on the website. 
-Important Links : https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+Important Links : https://www.machinelearningplus.com/time-series/time-series-analysis-python/                                 https://plotly.com/python/time-series/
