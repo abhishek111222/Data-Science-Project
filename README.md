@@ -17,3 +17,4 @@ Date is June 11 : This file contains the ARIMA model for UK. The results are not
 5. week_5(July 1) --> This is not the complete work. ICU patients, reproduction rate and the mortality Rate is taken here. Last time did a very big mistake. Also need to take care of the the work time. The movies have to stop.
 
 6. week5.ipynb : This is the week 5 work. The r2_score is in negartive -803, which is very bad. Need to find a solution to this thing. 
+7. week6 : This is the work of the week6. Need to figure out the ways in which we can improve the cases. 
