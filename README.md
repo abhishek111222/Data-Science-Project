@@ -18,3 +18,5 @@ Date is June 11 : This file contains the ARIMA model for UK. The results are not
 
 6. week5.ipynb : This is the week 5 work. The r2_score is in negartive -803, which is very bad. Need to find a solution to this thing. 
 7. week6 : This is the work of the week6. Need to figure out the ways in which we can improve the cases. 
+
+8. week8_1 : This is the work of week 8. The date is july 17th. I will like to check for the new variants and the vaccine given to the people. The vaccine has a very big role in the deaths as though the cases are increasing but still the number of deaths are reducing. This is because of the vaccine and needs to be considered. 
