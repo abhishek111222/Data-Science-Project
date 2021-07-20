@@ -22,3 +22,5 @@ Date is June 11 : This file contains the ARIMA model for UK. The results are not
 8. week8_1 : This is the work of week 8. The date is july 17th. I will like to check for the new variants and the vaccine given to the people. The vaccine has a very big role in the deaths as though the cases are increasing but still the number of deaths are reducing. This is because of the vaccine and needs to be considered. The lockdown also needs to be considered. 
 
 9. week 9_1 : This is the week 9 starting work. Today is Monday and this is the starting where the Chapter 1 is about to start. This is mostly about Chapter 3 (Data report)
+
+10. week 9_2 : This is the week 9 work. This file contains all the plots and the finding displayed in Chapter 3 Data Report
