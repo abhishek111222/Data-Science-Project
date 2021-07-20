@@ -24,3 +24,5 @@ Date is June 11 : This file contains the ARIMA model for UK. The results are not
 9. week 9_1 : This is the week 9 starting work. Today is Monday and this is the starting where the Chapter 1 is about to start. This is mostly about Chapter 3 (Data report)
 
 10. week 9_2 : This is the week 9 work. This file contains all the plots and the finding displayed in Chapter 3 Data Report
+
+11. final dataset: It is the folder containing the final dataset we will be working on. The unwanted features are not deleted as these can be useful afterwards, but are dropped while making any model. The work of Chapter 3 is all on it, with all the plots. 
