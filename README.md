@@ -27,4 +27,6 @@ Date is June 11 : This file contains the ARIMA model for UK. The results are not
 
 11. final dataset: It is the folder containing the final dataset we will be working on. The unwanted features are not deleted as these can be useful afterwards, but are dropped while making any model. The work of Chapter 3 is all on it, with all the plots. 
 
+12. stacker : The machine learning model is ready which is an ensemble of 4 algorithms as base regressors and one Bagging regressor. It is computationally expensive as XGBoost and RandomForest is used.
+
 12. LSTM + CNN(model2) --> ensemble of CNN and LSTM model for the prediction of the MR. The LSTM alone is not at all working. A new layer of CNN is added above it. 
