@@ -26,3 +26,5 @@ Date is June 11 : This file contains the ARIMA model for UK. The results are not
 10. week 9_2 : This is the week 9 work. This file contains all the plots and the finding displayed in Chapter 3 Data Report
 
 11. final dataset: It is the folder containing the final dataset we will be working on. The unwanted features are not deleted as these can be useful afterwards, but are dropped while making any model. The work of Chapter 3 is all on it, with all the plots. 
+
+12. LSTM + CNN(model2) --> ensemble of CNN and LSTM model for the prediction of the MR. The LSTM alone is not at all working. A new layer of CNN is added above it. 
